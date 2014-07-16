@@ -1,4 +1,5 @@
-OtrsSpy
+OtrsSpy [![Build Status](https://drone.io/github.com/overlinden/OtrsSpy/status.png)](https://drone.io/github.com/overlinden/OtrsSpy/latest)
+
 =======
 
 OtrsSpy allows you to extract a list of all ORTS queues from a ORTS instance. Even "deleted" and not published queues can be extracted.
@@ -10,3 +11,6 @@ Usage: java -jar otrsspy -h <host> -u <user> -p <password> [-l <lang>]
 -p <password>          password of any valid oats agent
 -l <lang>              language code of the OTRS instance (default: de)
 ````
+
+
+All stable builds can be downloaded here: http://wps-verlinden.de/drone.io/OtrsSpy/
