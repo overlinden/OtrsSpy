@@ -1,4 +1,4 @@
-OtrsSpy [![Build Status](https://drone.io/github.com/overlidnden/OtrsSpy/status.png)](https://drone.io/github.com/overlinden/OtrsSpy/latest)
+OtrsSpy [![Build Status](https://drone.io/github.com/overlinden/OtrsSpy/status.png)](https://drone.io/github.com/overlinden/OtrsSpy/latest)
 
 =======
 
